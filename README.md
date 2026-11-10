@@ -9,4 +9,4 @@ Components and the URL each one checks are in [`.upptimerc.yml`](.upptimerc.yml)
 The per-platform checks (`/api/health/<platform>`) fail when that platform
 hasn't updated metrics in the last 12 hours.
 
-Status page: https://jdvalencir.github.io/explain4me-status
+Status page: https://status.explain4me.com

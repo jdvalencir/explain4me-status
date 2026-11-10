@@ -22,10 +22,8 @@ assignees:
   - jdvalencir
 
 status-website:
-  # Until status.explain4me.com points here (CNAME), the page lives at
-  # https://jdvalencir.github.io/explain4me-status. Swap baseUrl for
-  # `cname: status.explain4me.com` once the DNS record exists.
-  baseUrl: /explain4me-status
+  # DNS: CNAME status -> jdvalencir.github.io
+  cname: status.explain4me.com
   logoUrl: https://explain4me.com/logo/e4me-logo-mark.png
   name: Explain4me Status
   introTitle: "Estado de **Explain4me**"
