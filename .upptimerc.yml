@@ -7,15 +7,15 @@ sites:
     url: https://explain4me.com
   - name: API
     url: https://api.explain4me.com/api/health
-  - name: Métricas de TikTok
+  - name: TikTok metrics
     url: https://api.explain4me.com/api/health/tiktok
-  - name: Métricas de Instagram
+  - name: Instagram metrics
     url: https://api.explain4me.com/api/health/instagram
-  - name: Métricas de Facebook
+  - name: Facebook metrics
     url: https://api.explain4me.com/api/health/facebook
-  - name: Métricas de X
+  - name: X metrics
     url: https://api.explain4me.com/api/health/x
-  - name: Métricas de YouTube
+  - name: YouTube metrics
     url: https://api.explain4me.com/api/health/youtube
 
 assignees:
@@ -26,60 +26,11 @@ status-website:
   cname: status.explain4me.com
   logoUrl: https://explain4me.com/logo/e4me-logo-mark.png
   name: Explain4me Status
-  introTitle: "Estado de **Explain4me**"
-  introMessage: "Disponibilidad del dashboard, la API y la actualización de métricas por plataforma. Una plataforma aparece caída si no actualiza métricas hace más de 12 horas."
+  introTitle: "**Explain4me** status"
+  introMessage: "Availability of the dashboard, the API and metric updates per platform. A platform shows as down when it hasn't updated metrics in over 12 hours.<br><br>*Español:* disponibilidad del dashboard, la API y la actualización de métricas por plataforma. Una plataforma aparece caída si no actualiza métricas hace más de 12 horas."
   navbar:
-    - title: Estado
+    - title: Status
       href: /
     - title: Explain4me
       href: https://explain4me.com
 
-# Spanish UI strings (keys from upptime/status-page i18n.yml).
-i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas funcionan con normalidad
-  incidentReport: "Reporte del incidente #$NUMBER →"
-  activeIncidentSummary: Abierto el $DATE con $POSTS actualizaciones
-  incidentTitle: Detalles del incidente $NUMBER
-  incidentDetails: Detalles del incidente
-  incidentFixed: Resuelto
-  incidentOngoing: En curso
-  incidentOpenedAt: Abierto el
-  incidentClosedAt: Cerrado el
-  incidentViewOnGitHub: Ver y suscribirse en GitHub
-  incidentCommentSummary: Publicado el $DATE por $AUTHOR
-  incidentBack: ← Volver a todos los incidentes
-  pastIncidents: Incidentes anteriores
-  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS actualizaciones
-  liveStatus: Estado en vivo
-  overallUptime: "Disponibilidad: $UPTIME"
-  overallUptimeTitle: Disponibilidad
-  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
-  averageResponseTimeTitle: Respuesta promedio
-  sevelDayResponseTime: Tiempo de respuesta, 7 días
-  responseTimeMs: Tiempo de respuesta (ms)
-  up: Operativo
-  down: Caído
-  degraded: Degradado
-  loading: Cargando
-  footer: Esta página es [de código abierto]($REPO) y funciona con [Upptime](https://upptime.js.org)
-  errorTitle: Ocurrió un error
-  errorIntro: No pudimos obtener el estado más reciente.
-  errorText: Intenta de nuevo en unos momentos.
-  errorHome: Ir al inicio
-  pastScheduledMaintenance: Mantenimientos anteriores
-  scheduledMaintenance: Mantenimiento programado
-  scheduledMaintenanceSummaryStarted: Empezó el $DATE, por $DURATION minutos
-  scheduledMaintenanceSummaryStarts: Empieza el $DATE, por $DURATION minutos
-  startedAt: Empezó el
-  startsAt: Empieza el
-  duration: Duración
-  durationMin: $DURATION minutos
-  incidentCompleted: Completado
-  incidentScheduled: Programado
-  duration24H: 24 h
-  duration7D: 7 días
-  duration30D: 30 días
-  duration1Y: 1 año
-  durationAll: todo
-  locale: es-CO
