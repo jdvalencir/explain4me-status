@@ -1,31 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jdvalencir
+repo: explain4me-status
 
+# Every 5 minutes (Upptime's default). Each URL must answer 2xx.
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Dashboard
+    url: https://explain4me.com
+  - name: API
+    url: https://api.explain4me.com/api/health
+  - name: Métricas de TikTok
+    url: https://api.explain4me.com/api/health/tiktok
+  - name: Métricas de Instagram
+    url: https://api.explain4me.com/api/health/instagram
+  - name: Métricas de Facebook
+    url: https://api.explain4me.com/api/health/facebook
+  - name: Métricas de X
+    url: https://api.explain4me.com/api/health/x
+  - name: Métricas de YouTube
+    url: https://api.explain4me.com/api/health/youtube
+
+assignees:
+  - jdvalencir
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # Until status.explain4me.com points here (CNAME), the page lives at
+  # https://jdvalencir.github.io/explain4me-status. Swap baseUrl for
+  # `cname: status.explain4me.com` once the DNS record exists.
+  baseUrl: /explain4me-status
+  logoUrl: https://explain4me.com/logo/e4me-logo-mark.png
+  name: Explain4me Status
+  introTitle: "Estado de **Explain4me**"
+  introMessage: "Disponibilidad del dashboard, la API y la actualización de métricas por plataforma. Una plataforma aparece caída si no actualiza métricas hace más de 12 horas."
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Explain4me
+      href: https://explain4me.com
