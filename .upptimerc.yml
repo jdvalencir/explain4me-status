@@ -33,3 +33,53 @@ status-website:
       href: /
     - title: Explain4me
       href: https://explain4me.com
+
+# Spanish UI strings (keys from upptime/status-page i18n.yml).
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas funcionan con normalidad
+  incidentReport: "Reporte del incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS actualizaciones
+  incidentTitle: Detalles del incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Resuelto
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes anteriores
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS actualizaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Disponibilidad: $UPTIME"
+  overallUptimeTitle: Disponibilidad
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta, 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Operativo
+  down: Caído
+  degraded: Degradado
+  loading: Cargando
+  footer: Esta página es [de código abierto]($REPO) y funciona con [Upptime](https://upptime.js.org)
+  errorTitle: Ocurrió un error
+  errorIntro: No pudimos obtener el estado más reciente.
+  errorText: Intenta de nuevo en unos momentos.
+  errorHome: Ir al inicio
+  pastScheduledMaintenance: Mantenimientos anteriores
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Empezó el $DATE, por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Empieza el $DATE, por $DURATION minutos
+  startedAt: Empezó el
+  startsAt: Empieza el
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  duration24H: 24 h
+  duration7D: 7 días
+  duration30D: 30 días
+  duration1Y: 1 año
+  durationAll: todo
+  locale: es-CO
