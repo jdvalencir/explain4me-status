@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/explain4me.com.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.61%",
+    "uptimeDay": "87.97%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 189,
-    "timeDay": 282,
+    "timeDay": 0,
     "timeWeek": 181,
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2026-11-19": 2
+      "2026-11-19": 173
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.61%",
+    "uptimeDay": "87.98%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 3720,
-    "timeDay": 281,
+    "timeDay": 0,
     "timeWeek": 374,
     "timeMonth": 3720,
     "timeYear": 3720,
     "dailyMinutesDown": {
-      "2026-11-19": 1
+      "2026-11-19": 173
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "tik-tok-metrics",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.61%",
+    "uptimeDay": "88.00%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 296,
-    "timeDay": 315,
+    "timeDay": 0,
     "timeWeek": 264,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2026-11-19": 1
+      "2026-11-19": 173
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "instagram-metrics",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "98.61%",
+    "uptimeDay": "88.01%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 242,
-    "timeDay": 280,
+    "timeDay": 0,
     "timeWeek": 237,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-11-19": 1
+      "2026-11-19": 173
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "facebook-metrics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.61%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 219,
-    "timeDay": 228,
+    "timeDay": 0,
     "timeWeek": 197,
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-11-19": 1
+      "2026-11-19": 172
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "x-metrics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.61%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 220,
-    "timeDay": 267,
+    "timeDay": 0,
     "timeWeek": 217,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-11-19": 0
+      "2026-11-19": 172
     }
   },
   {
@@ -125,16 +125,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.explain4me.com.ico",
     "slug": "you-tube-metrics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.62%",
+    "uptimeDay": "88.06%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 227,
-    "timeDay": 227,
+    "timeDay": 0,
     "timeWeek": 215,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-19": 172
+    }
   }
 ]
