@@ -1,7 +1,7 @@
 url: https://api.explain4me.com/api/health/x
-status: up
-code: 200
-responseTime: 267
-lastUpdated: 2026-11-18T04:02:10.658Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-11-19T04:00:13.157Z
 startTime: 2026-11-10T15:43:40.972Z
 generator: Upptime <https://github.com/upptime/upptime>
